@@ -1,0 +1,14 @@
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\bin\Debug\net7.0\NetworkConsoleApp.exe
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\bin\Debug\net7.0\NetworkConsoleApp.deps.json
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\bin\Debug\net7.0\NetworkConsoleApp.runtimeconfig.json
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\bin\Debug\net7.0\NetworkConsoleApp.dll
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\bin\Debug\net7.0\NetworkConsoleApp.pdb
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\obj\Debug\net7.0\NetworkConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\obj\Debug\net7.0\NetworkConsoleApp.AssemblyInfoInputs.cache
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\obj\Debug\net7.0\NetworkConsoleApp.AssemblyInfo.cs
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\obj\Debug\net7.0\NetworkConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\obj\Debug\net7.0\NetworkConsoleApp.dll
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\obj\Debug\net7.0\refint\NetworkConsoleApp.dll
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\obj\Debug\net7.0\NetworkConsoleApp.pdb
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\obj\Debug\net7.0\NetworkConsoleApp.genruntimeconfig.cache
+C:\Users\ragur\NetworkConsoleApp\NetworkConsoleApp\obj\Debug\net7.0\ref\NetworkConsoleApp.dll
